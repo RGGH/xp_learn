@@ -1,5 +1,3 @@
-Here’s a `README.md` file for your "Rust Examples Code" project:
-
 ```markdown
 # Rust Examples Code
 
@@ -64,5 +62,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Happy coding with Rust! 🚀
 ```
