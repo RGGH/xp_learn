@@ -6,7 +6,7 @@ This repository contains various Rust examples to help you learn and understand 
 ## Getting Started
 
 Ensure you have Rust installed on your system. If not, you can install it using [rustup](https://rustup.rs/):
-
+```
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
