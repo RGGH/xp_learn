@@ -1,8 +1,8 @@
 // src/bin/generics_tutorial.rs
 //
 //
-fn take_2_anything<T:std::ops::Mul<Output = T>>(a:T,b:T)->T{
-    a*b
+fn take_2_anything<T: std::ops::Mul<Output = T>>(a: T, b: T) -> T {
+    a * b
 }
 fn main() {
     println!("Learning about generics!");
@@ -11,4 +11,3 @@ fn main() {
 
     println!("{:.2?}", res);
 }
-

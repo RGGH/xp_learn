@@ -3,19 +3,11 @@ use std::borrow::Cow;
 fn process_string(input: &str) -> Cow<str> {
     // Check if the input string needs modification
     if input.contains(' ') {
-
-        // If modification is needed, allocate a new string (Cow::Owned)
-        let modified = input.replace(' ', "_");
-        Cow::Owned(modified)
-    } else {
-        // Otherwise, just borrow the input (Cow::Borrowed)
-
         // If modification is needed, allocate a NEW STRING (Cow::Owned)
         let modified = input.replace(' ', "_");
         Cow::Owned(modified)
     } else {
         // Otherwise, just BORROW the input (Cow::Borrowed)
-
         Cow::Borrowed(input)
     }
 }

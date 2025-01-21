@@ -2,4 +2,3 @@
 fn main() {
     println!("Learning about iterators!");
 }
-
