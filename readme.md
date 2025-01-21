@@ -1,4 +1,4 @@
-# Rust Examples Code
+# Rust Code Examples & Experiments 
 
 This repository contains various Rust examples to help learn and understand key concepts in the Rust programming language. Each example is designed to demonstrate a specific feature or idea, making it easier to grasp Rust's "unique and powerful capabilities".
 
