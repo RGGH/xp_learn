@@ -60,3 +60,7 @@ If you'd like to contribute new examples or improve the existing ones, feel free
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5ac8023 (chore: add comments to cow example)
