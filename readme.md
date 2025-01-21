@@ -59,6 +59,4 @@ If you'd like to contribute new examples or improve the existing ones, feel free
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-
 ```
