@@ -1,4 +1,6 @@
 # Rust Code Examples & Experiments 
+![Screenshot 2025-01-21 at 08-39-30 Learning Rust - YouTube](https://github.com/user-attachments/assets/3b5a268b-0e6b-4965-bcc0-e1ef3b682231)
+
 
 This repository contains various Rust examples to help learn and understand key concepts in the Rust programming language. Each example is designed to demonstrate a specific feature or idea, making it easier to grasp Rust's "unique and powerful capabilities".
 
